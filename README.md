@@ -41,5 +41,8 @@ You can take a look at the [OpenAPI definition](http://localhost:8080/v3/api-doc
 In addition, various clients to interact with this service can be easily generated using this OpenAPI definition.
 
 # Kubernetes documentation
+
+kubectl apply -f kogito-deploy.yaml
+
 You can forward port of your pod running in kubernetes cluster 
 ![image](https://user-images.githubusercontent.com/26783981/112290743-8992ca80-8cb5-11eb-829a-a2cb2fca2009.png)
