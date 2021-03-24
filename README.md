@@ -31,7 +31,9 @@ Then just build the project and run.
 
 
 # OpenAPI (Swagger) documentation
-http://localhost:8080/swagger-ui/
+http://localhost:8080/swagger-ui.html
+![image](https://user-images.githubusercontent.com/26783981/112291304-0160f500-8cb6-11eb-83a4-254aa6ad0132.png)
+
 [Specification at swagger.io](https://swagger.io/docs/specification/about/)
 
 You can take a look at the [OpenAPI definition](http://localhost:8080/v3/api-docs) - automatically generated and included in this service - to determine all available operations exposed by this service. For easy readability you can visualize the OpenAPI definition file using a UI tool like for example available [Swagger UI](https://editor.swagger.io).
