@@ -44,5 +44,9 @@ In addition, various clients to interact with this service can be easily generat
 
 kubectl apply -f kogito-deploy.yaml
 
+refer
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/
+kubectl apply -f ./my-manifest.yaml  
+
 You can forward port of your pod running in kubernetes cluster 
 ![image](https://user-images.githubusercontent.com/26783981/112290743-8992ca80-8cb5-11eb-829a-a2cb2fca2009.png)
